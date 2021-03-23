@@ -1,0 +1,203 @@
+@font-face{
+
+  src:url(Midnight Signature.otf);
+  font-family: midnight;
+
+}
+
+@font-face{
+
+  src:url(Cream Cake.ttf);
+  font-family: cream cake;
+
+}
+
+
+.Header { color:violet;
+    font-family: cream Cake;
+    font-size: 50px;
+    border-bottom: 5px;
+    border-bottom-color: white;
+    border-bottom-style: solid;
+   font-weight: 50px;
+  
+
+    }
+    ul{
+
+       margin-top: auto;
+       padding-top: 20px;
+       background-color: #333;
+      padding-bottom: 15px;
+      
+     
+    }
+
+   li {
+      display: inline;
+      font-size: 30px;
+      border-left-style: solid;
+      border-left-color: black;
+      padding-left: 10px;
+      padding-right: 10px;
+      font-family: cream Cake; 
+      
+      }
+      
+   a{
+      color: #03bcf4;;
+      text-decoration: none;
+      text-shadow: 0 0 30px #fff;
+      
+
+   }
+   a:hover{
+    background-color: transparent;
+    font-size: 45px;
+     text-decoration: underline;
+   }
+      
+  
+
+   
+   
+      
+
+
+  
+
+
+
+
+    
+
+body{
+   
+   background-image: url(matt-botsford-OKLqGsCT8qs-unsplash.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+
+
+}
+
+
+
+
+
+     br{ color: black;}
+
+
+
+ /* nyimbo zili apa */
+
+
+
+
+     .Track-1{ 
+        border-radius: 10%;
+      object-fit: cover;
+      box-sizing: border-box;
+      box-shadow: 0 0 30px #fff;
+      border-style: none;
+      height: 400px;
+      width: 250px;
+      padding-top: 30px;
+      background-color: white;
+      background-image: url(cover.jpg);
+      background-size: cover;
+      outline: none;
+      
+   
+   
+   }
+
+   .Track-2{ 
+      border-radius: 10%;
+    object-fit: cover;
+    box-sizing: border-box;
+    box-shadow: 0 0 30px #fff;
+    border-style: none;
+    height: 400px;
+    width: 250px;
+    padding-top: 30px;
+    background-color: white;
+    background-image: url(AlbumArt_{E6043A2C-BBEB-49C5-BCF0-5259B6332C34}_Large.jpg);
+    background-size: cover;
+    outline: none;
+   margin-left: 40px;
+ 
+ 
+ }
+
+
+
+
+ .Track-3{ 
+   border-radius: 10%;
+ object-fit: cover;
+ box-sizing: border-box;
+ box-shadow: 0 0 30px #fff;
+ border-style: none;
+ height: 400px;
+ width: 250px;
+ padding-top: 30px;
+ background-color: white;
+ background-image: url(8c0c7ac93ac93a2129cc12319b2c57eb.1000x1000x1.jpg);
+ background-size: cover;
+ outline: none;
+ margin-left: 40px;
+
+
+}
+
+   img{      border-radius: 300px;
+         margin-left: 40%;
+
+            border-style: solid;
+            border-color: aqua;
+            border-width: 3px;
+           
+
+
+    }
+   .Welcome{
+      text-align: center;
+      font-family: midnight;
+      font-size: 70px;
+      color: #0e3742;
+      animation: animate 5s linear infinite;
+
+ }
+
+@keyframes animate {
+
+0%,18%,20%,50.1%,60%,65.1%,80%,90.1%,92%
+{
+   color:#0e3742;
+   text-shadow: none;
+}
+
+18.1%,20.1%,30%,50%,60.1%,65%,80.1%,90%,92.1%,100%
+{
+
+   color: #fff;
+   text-shadow: 0 0 10px #03bcf4,
+               0 0 10px #03bcf4,
+               0 0 10px #03bcf4,
+               0 0 10px #03bcf4,
+               0 0 10px #03bcf4;
+
+
+
+}
+
+
+}
+
+p{
+      font-size: 60px;
+      font-family: cream Cake ;
+      color: white;
+
+}
+   
